@@ -1,6 +1,6 @@
 # GreenDao-SQLCipher-Demo
 GreenDAO_SQLCipher
--dome
+-demo
 
 
 
