@@ -1,10 +1,10 @@
-# GreenDao-SQLCipher-Dome
+# GreenDao-SQLCipher-Demo
 GreenDAO_SQLCipher
 -dome
 
 
 
-![](https://github.com/longtaoge/GrennDAODome/blob/master/image/grenndao13.png)
+![](https://github.com/longtaoge/GrennDAODemo/blob/master/image/grenndao13.png)
 
 
 
